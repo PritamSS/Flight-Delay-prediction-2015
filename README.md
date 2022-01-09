@@ -28,12 +28,12 @@ Three datasets were obtained from Kaggle which included the [flights](), [airlin
 Data visualization techniques were applied on the final dataset and some of them are given below
 
 ### Pie Chart
-This pie chart shows the distribution flights per airline  
+This pie chart shows the distribution flights per airline    
 ![piechart](https://drive.google.com/uc?export=view&id=1e_IwyVlvt2JaHCcPYAoYZ2ZgOIT6ZGbQ)  
 
 
 ### Strip plot 
-This plot showsthe arrival delay for each airline
+This plot shows the arrival delay for each airline  
 ![strip plot](https://drive.google.com/uc?export=view&id=1pNbbfZsEPPTUeIyWRMD7T63nNYqh0PbW)  
 
 ### Heat Maps
