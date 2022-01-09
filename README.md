@@ -17,7 +17,7 @@ Three datasets were obtained from Kaggle which included the [flights](), [airlin
 
 2.  A function Format_Hourmin was written to format the time and the date was converted to Datetime format
     ```bash
-        data2['Actual_Departure'] =data1['DEPARTURE_TIME'].apply(Format_Hourmin
+        data2['Actual_Departure'] =data1['DEPARTURE_TIME'].apply(Format_Hourmin)
     ```
     ```bash
         data2['Date'] = pd.to_datetime(data2[['YEAR','MONTH','DAY']])
