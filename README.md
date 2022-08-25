@@ -5,7 +5,7 @@ In the year 2015, a delay was observed in most of the flights from the Airports 
 
 ## Dataset Overview
 
-Three datasets were obtained from Kaggle which included the [flights](), [airlines]() and [airports]() dataset each of which having some useful parameters. These parameters were selected and merged into one single daatset which was finally used.
+Three datasets were obtained from Kaggle which included the flights, airlines and airports dataset each of which having some useful parameters. These parameters were selected and merged into one single daatset which was finally used.
 
 
 ## Data Cleaning and Preprocessing
