@@ -29,16 +29,16 @@ Data visualization techniques were applied on the final dataset and some of them
 
 ### Pie Chart
 This pie chart shows the distribution flights per airline    
-![piechart](https://drive.google.com/uc?export=view&id=1e_IwyVlvt2JaHCcPYAoYZ2ZgOIT6ZGbQ)  
+![piechart](https://drive.google.com/uc?export=view&id=1tfqHGbPw5HG_usPD0o72PZOxjwB-BHQi)  
 
 
 ### Strip plot 
 This plot shows the arrival delay for each airline  
-![strip plot](https://drive.google.com/uc?export=view&id=1pNbbfZsEPPTUeIyWRMD7T63nNYqh0PbW)  
+![strip plot](https://drive.google.com/uc?export=view&id=1Q1q-MxAP5V6773tpzqzAM8tF2umX32ac)  
 
 ### Heat Maps
 Heat maps show the correlation between two vatiables this was plotted for all of the pairs
-![Heatmap](https://drive.google.com/uc?export=view&id=19TbU8TOmDHJDGW-ZYj05-KAv2NjptKFB)  
+![Heatmap](https://drive.google.com/uc?export=view&id=1chx7rSUm3-Pvbg0m-EFnuM4_MmGI33gc)  
 
 ## Conclusion
 We observe that most of the Arrival Delays are dependent on the Departure Delays of the Airport from the Correlation Matrix. American Airlines had the highest Arrival Delay. We may also observe that even though maximum of the Arrival Delays are due to the Departure Delays but some flights has still arrived on time even after departed late from the Origin Airport. We are required to further inspect why departure Delay is happening in the origin Airport.
