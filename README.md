@@ -23,7 +23,7 @@ Three datasets were obtained from Kaggle which included the [flights](), [airlin
         data2['Date'] = pd.to_datetime(data2[['YEAR','MONTH','DAY']])
     ```
 3. Finally all the relevant columns from the three datasets were renamed and merged creating our final dataset
-    ![finaldataset](https://drive.google.com/uc?export=view&id=1F3MUswquMTsJoI0LDMKdWJiDkmpRDK5P)
+    ![finaldataset](https://drive.google.com/uc?export=view&id=10dI82KqvYJPKXvf0-tNKkWzAIbbFSYs7)
 ## Plots
 Data visualization techniques were applied on the final dataset and some of them are given below
 
